@@ -12,19 +12,19 @@ Zero21 is a card game for android with minimalistic and user friendly UI, built 
 * It also includes 3 difficulty levels.
 
 
-<span>
-    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen1.jpg" width="300">
+<span style="margin:5px;">
+    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen1.jpg" width="250">
 </span>
-<span>
-    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen2.jpg" width="300">
+<span style="margin:5px;">
+    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen2.jpg" width="250">
 </span>
-<span>
-    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen3.jpg" width="300">
+<span style="margin:5px;">
+    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen3.jpg" width="250">
 </span>
-<span>
-    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen4.jpg" width="300">
+<span style="margin:5px;">
+    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/Screen4.jpg" width="250">
 </span>
-<span>
-    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/InfoScreen.jpg" width="300">
+<span style="margin:5px;">
+    <img src="https://github.com/SaiTeja-Erukude/Zero21/blob/main/InfoScreen.jpg" width="250">
 </span>
 
